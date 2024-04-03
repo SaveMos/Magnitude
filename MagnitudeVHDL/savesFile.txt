@@ -1,0 +1,128 @@
+  write(line_out, input_Real);
+        write(line_out, semicolon);
+         
+        write(line_out, input_Img);
+        write(line_out, semicolon);
+         
+        write(line_out, output_Magn);
+        writeline(text_vector, line_out);
+  write(line_out, input_Real);
+        write(line_out, semicolon);
+         
+        write(line_out, input_Img);
+        write(line_out, semicolon);
+         
+        write(line_out, output_Magn);
+        writeline(text_vector, line_out);
+  write(line_out, input_Real);
+        write(line_out, semicolon);
+         
+        write(line_out, input_Img);
+        write(line_out, semicolon);
+         
+        write(line_out, output_Magn);
+        writeline(text_vector, line_out);
+  write(line_out, input_Real);
+        write(line_out, semicolon);
+         
+        write(line_out, input_Img);
+        write(line_out, semicolon);
+         
+        write(line_out, output_Magn);
+        writeline(text_vector, line_out);
+  write(line_out, input_Real);
+        write(line_out, semicolon);
+         
+        write(line_out, input_Img);
+        write(line_out, semicolon);
+         
+        write(line_out, output_Magn);
+        writeline(text_vector, line_out);
+  write(line_out, input_Real);
+        write(line_out, semicolon);
+         
+        write(line_out, input_Img);
+        write(line_out, semicolon);
+         
+        write(line_out, output_Magn);
+        writeline(text_vector, line_out);
+  write(line_out, input_Real);
+        write(line_out, semicolon);
+         
+        write(line_out, input_Img);
+        write(line_out, semicolon);
+         
+        write(line_out, output_Magn);
+        writeline(text_vector, line_out);
+  write(line_out, input_Real);
+        write(line_out, semicolon);
+         
+        write(line_out, input_Img);
+        write(line_out, semicolon);
+         
+        write(line_out, output_Magn);
+        writeline(text_vector, line_out);
+  write(line_out, input_Real);
+        write(line_out, semicolon);
+         
+        write(line_out, input_Img);
+        write(line_out, semicolon);
+         
+        write(line_out, output_Magn);
+        writeline(text_vector, line_out);
+  write(line_out, input_Real);
+        write(line_out, semicolon);
+         
+        write(line_out, input_Img);
+        write(line_out, semicolon);
+         
+        write(line_out, output_Magn);
+        writeline(text_vector, line_out);
+  write(line_out, input_Real);
+        write(line_out, semicolon);
+         
+        write(line_out, input_Img);
+        write(line_out, semicolon);
+         
+        write(line_out, output_Magn);
+        writeline(text_vector, line_out);
+  write(line_out, input_Real);
+        write(line_out, semicolon);
+         
+        write(line_out, input_Img);
+        write(line_out, semicolon);
+         
+        write(line_out, output_Magn);
+        writeline(text_vector, line_out);
+  write(line_out, input_Real);
+        write(line_out, semicolon);
+         
+        write(line_out, input_Img);
+        write(line_out, semicolon);
+         
+        write(line_out, output_Magn);
+        writeline(text_vector, line_out);
+  write(line_out, input_Real);
+        write(line_out, semicolon);
+         
+        write(line_out, input_Img);
+        write(line_out, semicolon);
+         
+        write(line_out, output_Magn);
+        writeline(text_vector, line_out);
+  write(line_out, input_Real);
+        write(line_out, semicolon);
+         
+        write(line_out, input_Img);
+        write(line_out, semicolon);
+         
+        write(line_out, output_Magn);
+        writeline(text_vector, line_out);
+  write(line_out, input_Real);
+        write(line_out, semicolon);
+         
+        write(line_out, input_Img);
+        write(line_out, semicolon);
+         
+        write(line_out, output_Magn);
+        writeline(text_vector, line_out);

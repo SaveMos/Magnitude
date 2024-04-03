@@ -1,0 +1,471 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+Eabsolute_value
+Z0 w1707059321
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 1637
+Z4 dC:/intelFPGA/20.1/Magnitude
+Z5 8C:/intelFPGA/20.1/Magnitude/absolute_value.vhd
+Z6 FC:/intelFPGA/20.1/Magnitude/absolute_value.vhd
+l0
+L5 1
+VHdjXn8@_O4HcS0m^JI^Q32
+!s100 F2J^5O?n@^J86=00kRg9@3
+Z7 OV;C;2020.1;71
+32
+Z8 !s110 1707734731
+!i10b 1
+Z9 !s108 1707734731.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA/20.1/Magnitude/absolute_value.vhd|
+Z11 !s107 C:/intelFPGA/20.1/Magnitude/absolute_value.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Adataflow
+R1
+R2
+R3
+DEx4 work 14 absolute_value 0 22 HdjXn8@_O4HcS0m^JI^Q32
+!i122 1637
+l17
+Z14 L16 7
+VN_XJ_ojGeHZkGUmaTM5Yg3
+!s100 CD7T6aze;QI7Bz8gMW36E0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Eabssolute_value
+w1706960843
+R2
+R3
+!i122 763
+R4
+R5
+R6
+l0
+L4 1
+V42[BEkBTlZ[OEZg;ga=oV1
+!s100 ;O0M[2F[Pg]zBJ4[FhUMk2
+R7
+32
+!s110 1706960847
+!i10b 1
+!s108 1706960847.000000
+R10
+R11
+!i113 1
+R12
+R13
+Ed_flip_flop
+Z15 w1707726335
+R2
+R3
+!i122 1639
+R4
+Z16 8C:/intelFPGA/20.1/Magnitude/d_flip_flop.vhd
+Z17 FC:/intelFPGA/20.1/Magnitude/d_flip_flop.vhd
+l0
+L4 1
+V<IjfPaF56nUO[4Gk;MMVh0
+!s100 HdlGkT4lX<g7]:ESYfFkH2
+R7
+32
+Z18 !s110 1707734732
+!i10b 1
+Z19 !s108 1707734732.000000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA/20.1/Magnitude/d_flip_flop.vhd|
+Z21 !s107 C:/intelFPGA/20.1/Magnitude/d_flip_flop.vhd|
+!i113 1
+R12
+R13
+Artl
+R2
+R3
+DEx4 work 11 d_flip_flop 0 22 <IjfPaF56nUO[4Gk;MMVh0
+!i122 1639
+l24
+L19 23
+V?27LVSb[DVc6;N:0MR=kT3
+!s100 :USkfbIj<ll77I]:FE^W@1
+R7
+32
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R12
+R13
+Efulladder
+Z22 w1699278963
+R2
+R3
+!i122 1194
+R4
+Z23 8C:/intelFPGA/20.1/Magnitude/full_adder.vhd
+Z24 FC:/intelFPGA/20.1/Magnitude/full_adder.vhd
+l0
+L5 1
+VF19lSL@GQ?h_`CJSQQRn00
+!s100 >_2P97U@:G1[ccAHXW6Z@0
+R7
+32
+Z25 !s110 1707064941
+!i10b 1
+Z26 !s108 1707064941.000000
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA/20.1/Magnitude/full_adder.vhd|
+Z28 !s107 C:/intelFPGA/20.1/Magnitude/full_adder.vhd|
+!i113 1
+R12
+R13
+Adataflow
+R2
+R3
+DEx4 work 9 fulladder 0 22 F19lSL@GQ?h_`CJSQQRn00
+!i122 1194
+l17
+R14
+V_g_<LB6U:>14MdRPMaJMS0
+!s100 aIHE[2kmgUGADKU=VSAO63
+R7
+32
+R25
+!i10b 1
+R26
+R27
+R28
+!i113 1
+R12
+R13
+Emagnitude
+Z29 w1707734724
+Z30 DPx4 ieee 9 math_real 0 22 gNk<PdFJ<XNPcfef`f?Z81
+R1
+R2
+R3
+!i122 1633
+R4
+Z31 8C:/intelFPGA/20.1/Magnitude/magnitude.vhd
+Z32 FC:/intelFPGA/20.1/Magnitude/magnitude.vhd
+l0
+L6 1
+Vb]7?d1oe9geB3=Di[K1ZT0
+!s100 8feQ2@E9h[5:ZA`=cPU^71
+R7
+32
+Z33 !s110 1707734730
+!i10b 1
+Z34 !s108 1707734730.000000
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA/20.1/Magnitude/magnitude.vhd|
+Z36 !s107 C:/intelFPGA/20.1/Magnitude/magnitude.vhd|
+!i113 1
+R12
+R13
+Adataflow
+R30
+R1
+R2
+R3
+DEx4 work 9 magnitude 0 22 b]7?d1oe9geB3=Di[K1ZT0
+!i122 1633
+l93
+L21 144
+V=Al3>5;:ZmSz>RJIJD^DS0
+!s100 FKXOWB]]36hZh]R7GgG<71
+R7
+32
+R33
+!i10b 1
+R34
+R35
+R36
+!i113 1
+R12
+R13
+Emagnitude_tb
+Z37 w1707726989
+Z38 DPx4 ieee 16 std_logic_textio 0 22 ^l:n6VFdg74Q?CKDhjD]D3
+R30
+R1
+R2
+R3
+!i122 1634
+R4
+Z39 8C:/intelFPGA/20.1/Magnitude/magnitude_tb.vhd
+Z40 FC:/intelFPGA/20.1/Magnitude/magnitude_tb.vhd
+l0
+L8 1
+V>A6_>?fmOf?h4_cWhWMgi1
+!s100 E1Cad4@4FA[l5cIk?;BYG2
+R7
+32
+R33
+!i10b 1
+R34
+Z41 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA/20.1/Magnitude/magnitude_tb.vhd|
+Z42 !s107 C:/intelFPGA/20.1/Magnitude/magnitude_tb.vhd|
+!i113 1
+R12
+R13
+Abeh
+R38
+R30
+R1
+R2
+R3
+DEx4 work 12 magnitude_tb 0 22 >A6_>?fmOf?h4_cWhWMgi1
+!i122 1634
+l37
+L11 276
+V`n4b07]kH[@ZSf=G?d`mQ1
+!s100 S01=[YURFDVBE9UP;Q@6K0
+R7
+32
+R33
+!i10b 1
+R34
+R41
+R42
+!i113 1
+R12
+R13
+Emagnitude_tb2
+Z43 w1707733532
+R38
+R30
+R1
+R2
+R3
+!i122 1640
+R4
+Z44 8C:/intelFPGA/20.1/Magnitude/magnitude_tb2.vhd
+Z45 FC:/intelFPGA/20.1/Magnitude/magnitude_tb2.vhd
+l0
+L8 1
+VJ9?DZ7183RJAQLDYzIFMH3
+!s100 [k=;b[^S:WnzPi7N3ATSS2
+R7
+32
+R18
+!i10b 1
+R19
+Z46 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA/20.1/Magnitude/magnitude_tb2.vhd|
+Z47 !s107 C:/intelFPGA/20.1/Magnitude/magnitude_tb2.vhd|
+!i113 1
+R12
+R13
+Abeh
+R38
+R30
+R1
+R2
+R3
+Z48 DEx4 work 13 magnitude_tb2 0 22 J9?DZ7183RJAQLDYzIFMH3
+!i122 1640
+l37
+Z49 L11 171
+Z50 VVS@_W>4U95eKS;zQBg:dG0
+Z51 !s100 j3:EjD0SH09QPYIgJziZN3
+R7
+32
+R18
+!i10b 1
+R19
+R46
+R47
+!i113 1
+R12
+R13
+Emagnitudeadder
+Z52 w1707553760
+R1
+R2
+R3
+!i122 1638
+R4
+Z53 8C:/intelFPGA/20.1/Magnitude/magnitudeAdder.vhd
+Z54 FC:/intelFPGA/20.1/Magnitude/magnitudeAdder.vhd
+l0
+L5 1
+VgU6hcza<;1AiLLm@;KkH61
+!s100 OnBbSPfhn=lkJjW?OZ6=>2
+R7
+32
+R18
+!i10b 1
+R9
+Z55 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA/20.1/Magnitude/magnitudeAdder.vhd|
+Z56 !s107 C:/intelFPGA/20.1/Magnitude/magnitudeAdder.vhd|
+!i113 1
+R12
+R13
+Adataflow
+R1
+R2
+R3
+DEx4 work 14 magnitudeadder 0 22 gU6hcza<;1AiLLm@;KkH61
+!i122 1638
+l28
+L17 28
+VfPV_NL^kZQDcMTQaAdYhF1
+!s100 FIeGmT7kNWonONR>F600^2
+R7
+32
+R18
+!i10b 1
+R9
+R55
+R56
+!i113 1
+R12
+R13
+Emax
+Z57 w1706959967
+R30
+R1
+R2
+R3
+!i122 1635
+R4
+Z58 8C:/intelFPGA/20.1/Magnitude/max.vhd
+Z59 FC:/intelFPGA/20.1/Magnitude/max.vhd
+l0
+L6 1
+V6RTzlhhK]MDZ;<_8H7;GO0
+!s100 CImoR:oCR3?<dnbHY_[Cb3
+R7
+32
+R8
+!i10b 1
+R34
+Z60 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA/20.1/Magnitude/max.vhd|
+Z61 !s107 C:/intelFPGA/20.1/Magnitude/max.vhd|
+!i113 1
+R12
+R13
+Adataflow
+R30
+R1
+R2
+R3
+DEx4 work 3 max 0 22 6RTzlhhK]MDZ;<_8H7;GO0
+!i122 1635
+l19
+Z62 L18 11
+VK20FPX]`RjYG[C:Yh>LK[0
+!s100 TQPoPSfYPPG:2U62ATJ2f2
+R7
+32
+R8
+!i10b 1
+R34
+R60
+R61
+!i113 1
+R12
+R13
+Emin
+Z63 w1706959974
+R30
+R1
+R2
+R3
+!i122 1636
+R4
+Z64 8C:/intelFPGA/20.1/Magnitude/min.vhd
+Z65 FC:/intelFPGA/20.1/Magnitude/min.vhd
+l0
+L6 1
+VU5cN>iimD=z0AV;=^CG_=0
+!s100 8;RlgGI0Ud9S99G@ZKQ2C1
+R7
+32
+R8
+!i10b 1
+R9
+Z66 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA/20.1/Magnitude/min.vhd|
+Z67 !s107 C:/intelFPGA/20.1/Magnitude/min.vhd|
+!i113 1
+R12
+R13
+Adataflow
+R30
+R1
+R2
+R3
+DEx4 work 3 min 0 22 U5cN>iimD=z0AV;=^CG_=0
+!i122 1636
+l19
+R62
+V>H@Yo3AYE;V2Z47IiMN@=2
+!s100 SNeKN[gaf40M7YU[GYDJm0
+R7
+32
+R8
+!i10b 1
+R9
+R66
+R67
+!i113 1
+R12
+R13
+Eripple_carry_adder
+Z68 w1706959625
+R2
+R3
+!i122 1199
+R4
+Z69 8C:/intelFPGA/20.1/Magnitude/ripple_carry_adder.vhd
+Z70 FC:/intelFPGA/20.1/Magnitude/ripple_carry_adder.vhd
+l0
+L5 1
+Vcg2VnB6XZiamATB<lB<dk1
+!s100 71cFf[n4kTgdX5lCeoR^=0
+R7
+32
+Z71 !s110 1707064942
+!i10b 1
+Z72 !s108 1707064942.000000
+Z73 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA/20.1/Magnitude/ripple_carry_adder.vhd|
+Z74 !s107 C:/intelFPGA/20.1/Magnitude/ripple_carry_adder.vhd|
+!i113 1
+R12
+R13
+Adataflow
+R2
+R3
+DEx4 work 18 ripple_carry_adder 0 22 cg2VnB6XZiamATB<lB<dk1
+!i122 1199
+l33
+L20 47
+V640E2aB9KNa<GKYOWA^jK2
+!s100 m=l8>Th2c@b`n54f2Ez7l2
+R7
+32
+R71
+!i10b 1
+R72
+R73
+R74
+!i113 1
+R12
+R13

@@ -1,0 +1,79 @@
+C:/intelFPGA/20.1/Magnitude/magnitude.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/intelFPGA/20.1/Magnitude/magnitude.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Compiling entity Magnitude
+-- Compiling architecture dataflow of Magnitude
+
+} {} {}} C:/intelFPGA/20.1/Magnitude/max.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/intelFPGA/20.1/Magnitude/max.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Compiling entity max
+-- Compiling architecture dataflow of max
+
+} {} {}} C:/intelFPGA/20.1/Magnitude/magnitudeAdder.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/intelFPGA/20.1/Magnitude/magnitudeAdder.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity magnitudeAdder
+-- Compiling architecture dataflow of magnitudeAdder
+
+} {} {}} C:/intelFPGA/20.1/Magnitude/d_flip_flop.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/intelFPGA/20.1/Magnitude/d_flip_flop.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity d_flip_flop
+-- Compiling architecture rtl of d_flip_flop
+
+} {} {}} C:/intelFPGA/20.1/Magnitude/magnitude_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/intelFPGA/20.1/Magnitude/magnitude_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package std_logic_textio
+-- Compiling entity magnitude_tb
+-- Compiling architecture beh of magnitude_tb
+
+} {} {}} C:/intelFPGA/20.1/Magnitude/absolute_value.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/intelFPGA/20.1/Magnitude/absolute_value.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity absolute_value
+-- Compiling architecture dataflow of absolute_value
+
+} {} {}} C:/intelFPGA/20.1/Magnitude/min.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/intelFPGA/20.1/Magnitude/min.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Compiling entity min
+-- Compiling architecture dataflow of min
+
+} {} {}} C:/intelFPGA/20.1/Magnitude/magnitude_tb2.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/intelFPGA/20.1/Magnitude/magnitude_tb2.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package std_logic_textio
+-- Compiling entity magnitude_tb2
+-- Compiling architecture beh of magnitude_tb2
+
+} {} {}}
